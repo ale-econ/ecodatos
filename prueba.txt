@@ -7,5 +7,6 @@ Aquí iniciamos una nueva rama.
 estoy escribiendo esto antes de mandar un cambio a github.
 
 MASTER1
+MASTER2
 
 Estoy tratando de ver si se hace bien o mal el merge.
