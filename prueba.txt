@@ -1,3 +1,5 @@
 hola mundo! Mi nombre es Alejandro. Estoy estudiando una especialidad.
 
 Aquí iniciamos una nueva rama.
+
+Estoy tratando de ver si se hace bien o mal el merge.
